@@ -3,17 +3,16 @@
 Purpose: 	This application securely sends data between server and client. The assignment required us to use the Needham Schroeder Protocol.
 
 Details:	This assignment fulfills multiple properties of network security such as
-
-Integrity
-Confidentiality
-Authentication
+  1) Integrity
+  2) Confidentiality
+  3) Authentication
 
 Language: C
 
 Main Concept Learned:	
-Encryption and Decryption through gcrypt.h library.	
-Differences between Network Byte Order and Host Byte Order
-Better programming practices
-modularizing code (helper functions)
-better variable names
-comments
+  1) Encryption and Decryption through gcrypt.h library.	
+  2) Differences between Network Byte Order and Host Byte Order
+  3) Better programming practices
+    1) creating maintainable functions with helper functions
+    2) appropriate variable names
+    3) commenting code
