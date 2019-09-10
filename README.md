@@ -13,6 +13,6 @@ Main Concept Learned:
   1) Encryption and Decryption through gcrypt.h library.	
   2) Differences between Network Byte Order and Host Byte Order
   3) Better programming practices
-    1) creating maintainable functions with helper functions
-    2) appropriate variable names
-    3) commenting code
+      a) creating maintainable functions with helper functions
+      b) appropriate variable names
+      b) commenting code
